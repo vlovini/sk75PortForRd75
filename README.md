@@ -17,6 +17,9 @@ This project is a port of the Womier SK75 firmware code to the Womier RD75 / PMO
   - No keypresses are detected.
 - Troubleshooting and debugging are ongoing to bring the port to a usable state.
 
+## Lacking Features Implementations
+- Logo RGB controls
+
 ## Project Contents
 
 - **Original Firmware:**  
